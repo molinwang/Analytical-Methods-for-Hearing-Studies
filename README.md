@@ -1,6 +1,6 @@
 # Analytical Methods for Hearing Studies
 
-Statistical methods and R/SAS code developed by Molin Wang and
+Statistical methods and R/SAS code developed by Dr. Molin Wang's group and
 collaborators for hearing research, including audiometric data
 analysis, evaluation of hearing assessment tools, and detection
 of outlier evaluators.
